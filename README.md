@@ -1,9 +1,9 @@
-# buynomics_prediction
 Hi! I am Aysu :star:
-My buynomics adventure started with an application form. 
-Afterwards, the negotiations and tests were concluded successfully. Now in the last (hopefully :pray:) step I have prepared answers for an estimation question.
 
+I am on the way of being Data Scientist at buynomics :computer:
+My buynomics adventure started with an application form. Afterwards, the negotiations and tests were concluded successfully. Now in the last (hopefully :pray:) step I have prepared answers for an estimation question.
 
+Let's dive into the question!
 
 Buynomics is helping a client to understand the effect of their prices, and as part of a new software solution, you are 
 researching options to solve this in a data-science-driven manner. 
